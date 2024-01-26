@@ -10581,7 +10581,7 @@ display: none;
 display: none !important;
 }
 .user_area {
-width:35% !important;
+width:42% !important;
 height: auto !important;
 float: right !important;
 padding: 5px 0px 5px 0px !important;
@@ -10589,7 +10589,7 @@ margin: 0px !important;
 position: absolute;
 top: -85px !important;
 background-color: transparent;
-right: 16px;
+right:0px;
 }
 .chk_pintxt button {
 color: #fff !important;
@@ -10951,6 +10951,7 @@ height: 55px !important;
 }
 .mid_header img {
 height:25px !important;
+margin: 0px !important;    
 }
 #ajaxproductlist 
 {
