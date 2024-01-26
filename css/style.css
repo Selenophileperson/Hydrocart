@@ -10534,7 +10534,7 @@ color:#f1585d;
     background-repeat: repeat;
     background-position: 50% 50%;
 }
-#itemlist, #itemlistprice, #itemlistname, #itemlistdel, #itemlistdis {/* display:none; */}
+
 .itemlistprice { height:52px; float: left; width: 100%; margin-bottom:12px; display: inline-table;}
 .itemlistname { /*height: 32px;*/ float: left; width: 100%; /*margin-bottom:10px;*/}
 .itemlistdel { /*height: 32px;*/ float: left; width: 100%; /*margin-bottom:10px;*/ display: inline-table;}
