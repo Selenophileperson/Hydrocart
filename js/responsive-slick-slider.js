@@ -56,14 +56,14 @@ arrows: true,
 infinite: true,
 speed: 500,
 cssEase: 'linear',
-slidesToShow: 5,
+slidesToShow: 3,
 slidesToScroll: 1,
 responsive: [{
 breakpoint: 700,
 settings: {
 dots: false,
 arrows: true,
-slidesToShow:5,
+slidesToShow:3,
 slidesToScroll: 1,
 }
 }]
